@@ -5,3 +5,7 @@
 3. **Dependency Injection:** Dependency injection is a programming technique that makes a class independent of its dependencies. It achieves that by decoupling the usage of an object from its creation. This helps you to follow SOLID’s dependency inversion and single responsibility principles.
 4. **Facade Pattern:** Facade allows us to simplify the way we interact with complicated APIs by hiding the internal implementation details under the hood and exposing simple methods for the client.
 5. **Delegate Pattern:** Delegate patterns enable objects to communicate back to their owners decoupled from their code.(one-to-one communication)
+6. **Adapter Pattern:** Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+7. **Decorator Pattern:** Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+
+
